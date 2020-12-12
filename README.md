@@ -1,4 +1,4 @@
-#Tk GUI ftpclient 
+# Tk GUI ftpclient 
 Tkinter Python FTP Client
 
 ### This repository is a stem of the 100ProjectsOfCode/ftpclient directory @ https://github.com/malgulam/100ProjectsOfCode/tree/main/ftpclient
