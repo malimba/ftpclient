@@ -1,4 +1,4 @@
-# ftpclient
+#Tk GUI ftpclient 
 Tkinter Python FTP Client
 
 ### This repository is a stem of the 100ProjectsOfCode/ftpclient directory @ https://github.com/malgulam/100ProjectsOfCode/tree/main/ftpclient
@@ -17,6 +17,6 @@ python3 main.py
 
 ### or
 ```python3
-ftp_intermediate/second_build/main.py
+python3 ftp_intermediate/second_build/main.py
 ```
 ~malimba.
