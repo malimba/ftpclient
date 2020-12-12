@@ -6,4 +6,4 @@ print('The ftp cleints can be accessed directly through main.py in both the ftp_
 
 #from ftp_intermediate import main
 
-exec(open('ftp_intermediate/second_build/main.py').read())
+exec(open('main.py').read())
